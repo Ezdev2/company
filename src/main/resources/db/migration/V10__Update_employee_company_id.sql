@@ -1,0 +1,1 @@
+UPDATE employee SET company_id = 1;

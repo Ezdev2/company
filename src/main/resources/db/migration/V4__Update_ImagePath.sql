@@ -1,0 +1,1 @@
+ALTER TABLE employee RENAME COLUMN image_data TO image_path;

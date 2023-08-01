@@ -1,0 +1,1 @@
+ALTER TABLE employee ALTER COLUMN image_data TYPE VARCHAR;
